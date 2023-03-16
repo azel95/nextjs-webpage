@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Jordi Portfolio',
+  domain: 'azel95.github.io',
   author: 'Jordi B.S.',
 
   // open graph metadata (optional)
-  description: 'Jordis Profile',
+  description: 'Jordi Portfolio',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
